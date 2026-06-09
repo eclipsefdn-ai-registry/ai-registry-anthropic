@@ -1,0 +1,8 @@
+{
+  "skillId": "io.github.anthropics",
+  "date": "2026-06-09",
+  "source": {
+    "url": "https://github.com/anthropics/skills.git",
+    "path": "skills/*"
+  }
+}
